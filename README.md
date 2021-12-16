@@ -1,7 +1,7 @@
 ### 👋 Hello, I'm Juma! 👋
 
 ---
-I'm a Game Developer constantly trying to improve my skills at many things I currently use Unity & really enjoy Shader programming in it. I hope later on I can make my own graphics engine for fun since I have a major interest in Shaders, Graphics specifically ✨ OpenGL & Vulkan ✨, & Engine Development ⚙️.
+I'm a Game Developer constantly trying to improve my skills at many things I currently use Unity & really enjoy Shader programming in it. I hope later on I can make my own graphics engine for fun since I have a major interest in Shaders & Graphics specifically ✨OpenGL & Vulkan✨ & hope to learn more about ⚙️Engine Development⚙️ in the future.
 
 - 🔭 I’m currently working on Zolanore, a Challenging RPG game with art similar to Genshin Impact & Zelda BOTW
 - 🌱 I’m currently learning shader programming
