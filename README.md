@@ -1,5 +1,5 @@
 ### 👋 Hello, I'm Juma! 👋
-### ***My first ever tree shader!***
+### ***My custom first ever tree shader!***
 
 https://user-images.githubusercontent.com/52252068/146339015-9a0d2fac-8d2b-4c9d-880d-235585fd0d4e.mp4
 
