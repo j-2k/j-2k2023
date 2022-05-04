@@ -13,4 +13,4 @@ I'm a Game Developer constantly trying to improve my skills at many things I cur
 - 📫 Need to reach me? My Email is jumaadbusiness@gmail.com | (Incase of informal requests) My discord is TURMOIL2K#1497
 - ⚡ Fun fact: I have over 10,000+ hours in-game time in many different games across my lifetime
 
-- Last Updated 5/4/2022
+***Last Updated 5/4/2022***
