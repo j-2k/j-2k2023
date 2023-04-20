@@ -18,6 +18,6 @@ I'm a Game Developer constantly trying to improve my skills at many things I cur
 4. C++.
 
 - 📫 Need to reach me? My Email is jumaadbusiness@gmail.com
-- ⚡ Fun fact: I have over 10,000+ hours in-game time in many different games across my lifetime.
+- ⚡ Fun fact: I have over 10,000+ hours in-game time in many different games across my lifetime & played competitively in some of them.
 
 ***Last Updated 4/21/2023***
