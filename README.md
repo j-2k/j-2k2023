@@ -1,6 +1,6 @@
 ### 👋 Hello, I'm Juma! 👋
 ### ***My custom first ever tree shader!***
-*I forgot to change the culling so it looks a little weird ignore that 🤦🤣*
+***I forgot to change the culling so it looks a little weird ignore that 🤦🤣***
 
 https://user-images.githubusercontent.com/52252068/146339015-9a0d2fac-8d2b-4c9d-880d-235585fd0d4e.mp4
 
