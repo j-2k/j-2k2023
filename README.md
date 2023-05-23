@@ -19,6 +19,6 @@ I'm a developer that specializes in Games, Websites, & Graphics. I have been pla
 - 📫 Need to reach me? My Email is jumaadbusiness@gmail.com | Informal/Casual requests can be done on discord tex2d#2790
 - ⚡ Fun fact: I have over 10,000+ hours in-game time in many different games across my lifetime & played competitively in some of them.
 
-![](https://komarev.com/ghpvc/?username=your-github-username&color=22ff22&style=flat&label=Views)
+![](https://komarev.com/ghpvc/?username=j-2k&color=22ff22&style=flat&label=Views)
 
 ***Last Updated 5/8/2023***
