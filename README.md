@@ -22,3 +22,17 @@ I'm a developer that specializes in Games, Websites, & Graphics. I have been pla
 ![](https://komarev.com/ghpvc/?username=j-2k&color=22ff22&style=flat&label=Views)
 
 ***Last Updated 5/8/2023***
+
+$$x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}$$ $$a^2 + b^2 = c^2$$ 
+
+$$R = R_x(\alpha) \cdot R_y(\beta) \cdot R_z(\gamma)$$
+
+$$
+R = \begin{bmatrix}
+\cos(\gamma)\cos(\beta) & -\sin(\gamma)\cos(\alpha) + \cos(\gamma)\sin(\beta)\sin(\alpha) & \sin(\gamma)\sin(\alpha) + \cos(\gamma)\sin(\beta)\cos(\alpha) \\
+\sin(\gamma)\cos(\beta) & \cos(\gamma)\cos(\alpha) + \sin(\gamma)\sin(\beta)\sin(\alpha) & -\cos(\gamma)\sin(\alpha) + \sin(\gamma)\sin(\beta)\cos(\alpha) \\
+-\sin(\beta) & \cos(\beta)\sin(\alpha) & \cos(\beta)\cos(\alpha) \\
+\end{bmatrix}
+$$
+
+Good to know after so much time wasted that mathjax is supported natively on MD & on GH-pages but needs only a import.
