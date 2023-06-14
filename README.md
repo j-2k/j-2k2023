@@ -8,12 +8,12 @@ I'm a developer that specializes in Games, Websites, & Graphics. I have been pla
 
 ### 🚧 I’m currently working on the following:
 1. Writing my own [Raytracer](https://github.com/j-2k/Raytracing).
-2. My Graphics Based [Website](https://github.com/j-2k/GraphicsWebsite).
+2. Working on my [Shader Showcase](https://github.com/j-2k/ShaderShowcase) project.
 3. Documenting my learning progress on my [github website](https://j-2k.github.io).
 
 ### 🎨 Constantly trying to Learn & Master:
 1. Shaders (HLSL/GLSL/CG).
-2. Graphics Related Topics.
+2. Front-End Web Development.
 3. C++.
 
 - 📫 Need to reach me? My Email is jumaadbusiness@gmail.com | Informal/Casual requests can be done on discord tex2d#2790
@@ -21,7 +21,7 @@ I'm a developer that specializes in Games, Websites, & Graphics. I have been pla
 
 ![](https://komarev.com/ghpvc/?username=j-2k&color=22ff22&style=flat&label=Views)
 
-***Last Updated 5/8/2023***
+***Last Updated 7/14/2023***
 
 $$x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}$$ $$a^2 + b^2 = c^2$$ 
 
