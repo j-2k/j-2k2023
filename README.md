@@ -6,7 +6,7 @@ https://user-images.githubusercontent.com/52252068/146339015-9a0d2fac-8d2b-4c9d-
 
 I'm a developer that specializes in Games, Websites, & Graphics. I have been playing games since I was a child & after I graduated from highschool, I took a risk & decided to make it my passion. My dream is to work in anything graphics related such as Shaders, Graphics Specializations (OpenGL/DX/VULKAN), Rendering Topics, & etc. This is essentially my biggest dream, to work & specialize in the graphics space. Scroll down to check some cool repositories if you're interested!
 
-### 🚧 I’m currently working on the following:
+### 🚧 I’m currently working on the following:<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=j-2k&layout=compact&theme=cobalt" />
 1. Writing my own [Raytracer](https://github.com/j-2k/Raytracing).
 2. Working on my [Shader Showcase](https://github.com/j-2k/ShaderShowcase) project.
 3. Documenting my learning progress on my [github website](https://j-2k.github.io).
@@ -14,7 +14,7 @@ I'm a developer that specializes in Games, Websites, & Graphics. I have been pla
 ### 🎨 Constantly trying to Learn & Master:
 1. Shaders (HLSL/GLSL/CG).
 2. Front-End Web Development.
-3. C++.
+3. C++.https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical
 
 - 📫 Need to reach me? My Email is jumaadbusiness@gmail.com | Informal/Casual requests can be done on discord tex2d#2790
 - ⚡ Fun fact: I have over 10,000+ hours in-game time in many different games across my lifetime & played competitively in some of them.
