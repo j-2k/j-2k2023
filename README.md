@@ -14,7 +14,7 @@ I'm a developer that specializes in Games, Websites, & Graphics. I have been pla
 ### 🎨 Constantly trying to Learn & Master:
 1. Shaders (HLSL/GLSL/CG).
 2. Front-End Web Development.
-3. C++.https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical
+3. C++.
 
 - 📫 Need to reach me? My Email is jumaadbusiness@gmail.com | Informal/Casual requests can be done on discord tex2d#2790
 - ⚡ Fun fact: I have over 10,000+ hours in-game time in many different games across my lifetime & played competitively in some of them.
