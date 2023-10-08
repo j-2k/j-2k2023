@@ -7,22 +7,26 @@ https://user-images.githubusercontent.com/52252068/146339015-9a0d2fac-8d2b-4c9d-
 I'm a developer that specializes in Games, Websites, & Graphics. I have been playing games since I was a child & after I graduated from highschool, I took a risk & decided to make it my passion. My dream is to work in anything graphics related such as Shaders, Graphics Specializations (OpenGL/DX/VULKAN), Rendering Topics, & etc. This is essentially my biggest dream, to work & specialize in the graphics space. Scroll down to check some cool repositories if you're interested!
 
 ### 🚧 I’m currently working on the following:<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=j-2k&layout=compact&theme=cobalt" />
-1. Writing my own [Raytracer](https://github.com/j-2k/Raytracing).
-2. Working on my [Shader Showcase](https://github.com/j-2k/ShaderShowcase) project.
-3. Documenting my learning progress on my [github website](https://j-2k.github.io).
+1. [Shader Showcase](https://github.com/j-2k/ShaderShowcase) project.
 
-### 🎨 Constantly trying to Learn & Master:
-1. Shaders (HLSL/GLSL/CG).
-2. Front-End Web Development.
-3. C++.
+### 📝 My busy to-do list:
+1. Write my first compute shader [(Raytracer + Compute shader Unity)](http://three-eyed-games.com/2018/05/03/gpu-ray-tracing-in-unity-part-1/)
+2. Finish writing the raytracing project blog on my [website](https://j-2k.github.io/raytracingproject)  
 
+### ♾️ Constantly trying to master:
+1. Writing Shaders (HLSL/GLSL/CG).  
+2. Data structures & algorithms
+3. C# & C++
+  
+  
+  
 - 📫 Need to reach me? My Email is jumaadbusiness@gmail.com
-- 💬 Informal / Casual talk can be on discord, will make a new dev acc since my old ones are too cluttered.
-- ⚡ Fun fact: I have over 10,000+ hours in-game time in many different games across my lifetime & played competitively in some of them.
+- 💬 Informal / Casual talk can be on discord, will put a new ID here soon.
+- ⚡ Fun fact: I have combined over 10,000+ hours in-game time in many different games across my lifetime & played competitively in some of them.
 
 ![](https://komarev.com/ghpvc/?username=j-2k&color=22ff22&style=flat&label=Views)
 
-***Last Updated 7/14/2023***
+***Last Updated 10/8/2023***
 
 $$x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}$$ $$a^2 + b^2 = c^2$$ 
 
