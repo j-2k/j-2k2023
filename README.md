@@ -8,15 +8,16 @@ I'm a developer that specializes in Games, Websites, & Graphics. I have been pla
 
 ### 🚧 I’m currently working on the following:<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=j-2k&layout=compact&theme=cobalt" />
 1. [Shader Showcase](https://github.com/j-2k/ShaderShowcase) project.
+2. Start/Learn Graphics Programming, [My Roadmap + Resources](https://github.com/j-2k/GraphicsProgrammingRoadmap)
 
-### 📝 My busy to-do list:
+### 📝 My never-ending to-do list:
 1. Write my first compute shader [(Raytracer + Compute shader Unity)](http://three-eyed-games.com/2018/05/03/gpu-ray-tracing-in-unity-part-1/)
 2. Finish writing the raytracing project blog on my [website](https://j-2k.github.io/raytracingproject)  
 
 ### ♾️ Constantly trying to master:
 1. Writing Shaders (HLSL/GLSL/CG).  
-2. Data structures & algorithms
-3. C# & C++
+2. Problem-Solving / Data structures & Algorithms 
+3. C# & C++ 
   
   
   
